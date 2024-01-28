@@ -1,0 +1,15 @@
+Hosting via IPFS
+
+Pin the directory/folder locally 
+
+Pin by CID to Pinata 
+
+Update ENS:
+- Sign in via gnarizard.eth
+- Go to profile
+- Go to records 
+- Update URL
+https://ipfs.io/ipfs/"CID"/
+
+- Update Content Hash
+ipfs://"CID"
